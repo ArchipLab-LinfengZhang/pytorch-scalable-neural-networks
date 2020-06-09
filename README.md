@@ -1,5 +1,6 @@
 # SCAN: A Scalabel Neural Networks Framework for Compact and Efficient Models
 A pytorch implementation of paper *SCAN: A Scalabel Neural Networks Framework for Compact and Efficient Models*.
+An advanced version has been released in https://github.com/ArchipLab-LinfengZhang/pytorch-self-distillation-final.
 
 ## Requirements
 Install PyTorch>=1.0.0, torchvision>=0.2.0.
